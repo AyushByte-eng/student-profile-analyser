@@ -25,7 +25,7 @@ print("1." ,c[0])
 print("2." ,c[1])
 
 #branch analsis 
-print("===BRANCH===")
+print("====BRANCH====")
 
 if  d== "CSE":
     print("Branch category: Computer Science")
@@ -45,4 +45,4 @@ if d in branches:
 else:
     print("Your branch is not in our list ")
 
-print("\n====Analysis Complete===")
+print("\n=====Analysis Complete====")
