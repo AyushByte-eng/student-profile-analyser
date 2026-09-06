@@ -38,7 +38,7 @@ elif d== "ECE":
 elif d== "Mechanical":
     print("Branch category: Core Engineering")
 
-print("===BRANCH CHECK===")
+print("====BRANCH CHECK====")
 
 if d in branches:
     print("Your branch is available in our list ")
