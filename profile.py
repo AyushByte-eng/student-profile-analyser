@@ -7,6 +7,8 @@ c1= input("enter your first language: ")
 c2= input("enter your second language: ")
 
 
+
+
   #list 
 c =[c1,c2]
 
